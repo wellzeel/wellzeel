@@ -1,5 +1,5 @@
 ## Hi there 👋
-- A vida e bela so para quem sabe viver
+- A vida e bela só para quem sabe viver
 - Sou estudante e estudo Alura
 - Estou me desenvolvendo na linguagem java
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
